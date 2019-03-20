@@ -72,13 +72,3 @@
 
   </body>
 </html>
-Array ( [a] => Amy [b] => Tom [c] => Gimmy )
-陣列$data有Tom
-0 = Amy、1 = Gimmy、2 = Tom、
-0 = Tom、1 = Gimmy、2 = Amy、
-Array ( [d] => ape [a] => dog [b] => cat [c] => bear )
-陣列$animal有bear => c
-d = ape、c = bear、b = cat、a = dog、
-a = dog、b = cat、c = bear、d = ape、
-a = low、b = middle、c = high、
-c = high、b = middle、a = low、
