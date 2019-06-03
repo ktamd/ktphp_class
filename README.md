@@ -21,6 +21,6 @@
    5.4 修改及增加陣列<br>
    5.5 排序及搜索<br>
 6 自訂函式<br>
-7 coockie & session<br>
-8 檔案上傳<br>
-9 SQL語法應用<br>
+7 物件導向<br>
+8 coockie & session<br>
+9 檔案上傳<br>
